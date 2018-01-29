@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "816922876830",
+    "firebase_url": "https://hey-cafe-98b85.firebaseio.com",
+    "project_id": "hey-cafe-98b85",
+    "storage_bucket": "hey-cafe-98b85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816922876830:android:dfd0bfc477b48205",
+        "android_client_info": {
+          "package_name": "com.malikbouras.heycafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816922876830-6bs9ildntq0ghpkttlesikrbnj1vcsml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.malikbouras.heycafe",
+            "certificate_hash": "03134ceb749645cd107c8c04b7f2aa9983cd4610"
+          }
+        },
+        {
+          "client_id": "816922876830-94t4gga7806hdrsqua0ig04bbvvnu4ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz6YUQTehvwjoTbHBfVWeuuWfOuB0TfO0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816922876830-94t4gga7806hdrsqua0ig04bbvvnu4ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

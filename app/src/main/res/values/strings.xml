@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hey café !</string>
+
+    <!-- Erreur Login -->
+    <string name="sign_in_cancelled">Sign in annulé</string>
+    <string name="no_internet_connection">Pas de connexion internet</string>
+    <string name="unknown_error">Erreur inconnue</string>
+    <string name="unknown_sign_in_response">Erreur inconnue</string>
+
+
+    <string name="coffee_taken">Hey, +1 café !</string>
+
+</resources>
